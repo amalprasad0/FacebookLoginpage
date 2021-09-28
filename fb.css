@@ -1,0 +1,54 @@
+.header{
+    background: #1877f2 ;
+    width: 100%;
+    height: 80px;
+
+}
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.logo{
+    width: 50%;
+   float: left;
+   margin-top: 16px;
+   
+
+}
+.login{
+    width: 50%;
+    float: left;
+
+padding-top: 9px;
+}
+.facebooklogo{
+    color: white;
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 170px;
+    
+    
+}
+.login-label{
+    font-size: 11px;
+    color: white;
+}
+.forgot{
+    color: lightgray;
+    text-decoration: none;
+    font-size: 12px;
+}
+.login-label{
+    padding-left: 90px;
+}
+.button{
+    background-color: #4267b2;
+    color: #fff;
+    border-color: #4267b2;
+    cursor: pointer;
+}
+.button:hover{
+    background:#004cff;
+}
